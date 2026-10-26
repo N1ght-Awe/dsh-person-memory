@@ -1,0 +1,33 @@
+{
+  "version": "0.1.0",
+  "algorithm": "sha256",
+  "files": {
+    ".gitattributes": "53bd72599f9e8cbed776d070e723b4333192ca7b3a3a55c199f7a02f854b923b",
+    ".gitignore": "68f90a471b48ddb23ab459f16c255b7bb2765a771082a77d39534cf13b518cc5",
+    "LICENSE": "2ed996c596e1b478bc798f127d8c0ea4e5a9eba12b7c33fa04b3d9d057a844ff",
+    "LICENSES/dsh-workspace-recollection.txt": "fea172db929398dbeaa933612c9e721c7af8486550b8fa9ce8ca4b71cd9ed7c6",
+    "LICENSES/qq-bridge.txt": "f1d37b662ad12bc08123bf1c06a60e5b3777efa699920cff741f2d591ad5f30b",
+    "NOTICE.md": "d8998245b6e053f42357cf09ec01b6e33bb6d5c45b05d03d1497193913cf839e",
+    "README.en.md": "5279ce9fc3ea13c77d75aa97df5b8308957c872d1e4585c1a194c41f1de79a75",
+    "README.md": "f139b15ab0c81ee5e8b56ecc4c72d3b0ac3bdf8fe9521243e9d5c88c0980686f",
+    "docs/INTEGRATION.md": "5d078e4ce0799c8eec8d2848e407da3b6dc313354519ebde7c4f584ea4615c97",
+    "docs/LIMITATIONS.md": "558698c99ae48d7ac2395f9cdf3dd652160b2cd0873aee1d39465f548fc67d21",
+    "docs/PRIVACY.md": "fc5a74f232c51f699234a5eb4159badc10273e82271e3b37455531c2ea351baa",
+    "docs/VALIDATION.md": "be06a1efa74a01efc4244cae21152e3c065e0feb66f28af42ebbbb7b97f4a516",
+    "examples/demo.mjs": "90f7cddb1c14110e2f931bd37cbbe28dff78ddd502a7f010c5977335482449ba",
+    "examples/support/fixture.js": "4a4739dd014100295882013ae8411b19ef3f780a9a0819fa7223ce6d18378946",
+    "examples/support/store.js": "1020b16ba186769733658bd29b76043d5d7472f99aad9f00846424c1a0c97788",
+    "package.json": "904d928692754ab24d7bf3947241abc01ccbe1ef8973f39aadf30d1a023adfba",
+    "scripts/check-package.mjs": "c64259d5460d17edaac60686116339e773a64d4c53404633827198d0f7a05e1f",
+    "src/bridge/config.js": "7a108ea6453924c6421c0fd94510892dd3477e127892d69db53296e29c92c40c",
+    "src/bridge/memory-reply.js": "859f96316e6298e4645841b71b4ae5f5c0789a1972060f90447d83d663e52b5e",
+    "src/bridge/person-memory.js": "15b096c0a26f8f93f93578f37232574fee9eb2ab7cdd4dbdb4b2fcf0a20a3e1a",
+    "src/identity-memory.js": "c88319033f6928a94983c3390e4c53da42d436272e59e4017f4231ee7ebdc1fb",
+    "src/person-policy.js": "d7a05c834fdd3bf33e6733fd7aa1ce0b3b4a511702e696ad838e7c0e8b16ebfc",
+    "src/person-service.js": "e6cd32f9e91a2092e299dffa3fd05dc7acb06ca48a6d1d9124d207972eceafb3",
+    "tests/bridge.test.mjs": "fffc30f7b4dc2850f2950071e28abe23608434174bcaef44cdf885449613b84a",
+    "tests/no-network.mjs": "210d5540aeb471e542f634009b6c11109d3106bee6252e111a37fb745105e8f8",
+    "tests/person.test.mjs": "63f22604bb95bc080c702276812daf304a3e9958688a3c8500362011e98d6d06",
+    "tests/reply.test.mjs": "23c4a32517ce38abba76b93bc53e98f5576f104c5b2de33f45a54f4b25334240"
+  }
+}

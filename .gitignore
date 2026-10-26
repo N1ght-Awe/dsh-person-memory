@@ -1,0 +1,16 @@
+# Only source, synthetic examples, tests and documentation belong here.
+node_modules/
+.env
+.env.*
+*.key
+*.pem
+*.log
+*.local.*
+*.private.*
+state/
+session-memory/
+backups/
+coverage/
+.test-*/
+*.zip
+

@@ -1,0 +1,24 @@
+{
+  "name": "dsh-person-memory",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A small reference implementation for person-scoped memory across DSH sessions and chat contexts.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "test": "node --import ./tests/no-network.mjs --test tests/person.test.mjs tests/bridge.test.mjs tests/reply.test.mjs",
+    "demo": "node --import ./tests/no-network.mjs examples/demo.mjs",
+    "check": "node scripts/check-package.mjs"
+  },
+  "exports": {
+    ".": "./src/person-service.js",
+    "./identity": "./src/identity-memory.js",
+    "./policy": "./src/person-policy.js",
+    "./bridge": "./src/bridge/person-memory.js",
+    "./reply": "./src/bridge/memory-reply.js"
+  }
+}
+
