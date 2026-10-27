@@ -1,5 +1,5 @@
 # DSH Person Memory
-
+# 让肥鱼在群聊中依旧记得我们私聊的内容 实现肥鱼的"认人"记忆能力
 [English](README.en.md) · [接入指南](docs/INTEGRATION.md) · [范围与限制](docs/LIMITATIONS.md)
 
 一个从实际 DSH 记忆改造中提取的**人物记忆参考实现**：同一个人在不同 Session、私聊和配置群中使用同一份人物记录，同时把身份识别、披露权限和聊天表达分开。
